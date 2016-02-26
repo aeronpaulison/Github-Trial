@@ -1,0 +1,37 @@
+nav {
+	background: #f4f4f4;
+}
+.nav-social-details {
+	li {
+		display: inline-block;
+	}
+}
+.nav-social-details > ul {
+	float: left;
+}
+.nav-social-details ul + ul {
+	float: right;
+}
+
+.navigation {
+	.main-nav {
+		float: left;
+	}
+	.quote-section {
+		float: right;
+	}
+}
+.main-nav {
+	.logo-container {
+		float: left;
+		width: 120px;
+	}
+	li {
+		display: inline-block;
+	}
+}
+.quote-section {
+	li {
+		display: inline-block;
+	}
+}
